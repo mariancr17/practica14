@@ -1,0 +1,26 @@
+body{
+	background-color: LightYellow;
+}
+h2{
+	font-family: Rage;
+	color: rgb(32, 178, 170);
+	font-size: 30px;
+}
+h1{
+	font-family: Rockwell;
+	color: #C71585;
+	font-size: 25px;
+	text-align: left;
+}
+h3{
+	font-family: Rage;
+	color: Silver;
+	font-size: 25px;
+	text-align: center;
+}
+h4{
+	font-family: Rockwell;
+	color: #9ACD32;
+	font-size: 25px;
+	text-align: left;
+}
