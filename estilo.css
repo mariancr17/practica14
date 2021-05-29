@@ -1,0 +1,26 @@
+body{
+	background-color: Thistle;
+}
+h2{
+	font-family: Impact;
+	color: Teal;
+	font-size: 30px;
+}
+h1{
+	font-family: Rage;
+	color: DarkSeaGreen;
+	font-size: 30px;
+	text-align: left;
+}
+h3{
+	font-family: Rage;
+	color: DarkSeaGreen ;
+	font-size: 30px;
+	text-align: center;
+}
+h4{
+	font-family: Impact;
+	color: SteelBlue;
+	font-size: 30px;
+	text-align: left;
+}
